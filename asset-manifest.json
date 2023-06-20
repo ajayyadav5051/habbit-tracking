@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/habbit-tracking/static/css/main.3fd25ece.css",
-    "main.js": "/habbit-tracking/static/js/main.767fbfe1.js",
+    "main.css": "/habbit-tracking/static/css/main.8a57ba01.css",
+    "main.js": "/habbit-tracking/static/js/main.21bcf55f.js",
     "index.html": "/habbit-tracking/index.html",
-    "main.3fd25ece.css.map": "/habbit-tracking/static/css/main.3fd25ece.css.map",
-    "main.767fbfe1.js.map": "/habbit-tracking/static/js/main.767fbfe1.js.map"
+    "main.8a57ba01.css.map": "/habbit-tracking/static/css/main.8a57ba01.css.map",
+    "main.21bcf55f.js.map": "/habbit-tracking/static/js/main.21bcf55f.js.map"
   },
   "entrypoints": [
-    "static/css/main.3fd25ece.css",
-    "static/js/main.767fbfe1.js"
+    "static/css/main.8a57ba01.css",
+    "static/js/main.21bcf55f.js"
   ]
 }
